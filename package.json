@@ -1,0 +1,21 @@
+{
+  "name": "satoshibot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "satoshi",
+    "bot",
+    "telegram",
+    "dariodf"
+  ],
+  "author": "dariodf",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "telegram-bot-api": "^1.2.0"
+  }
+}
